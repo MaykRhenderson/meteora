@@ -5,21 +5,6 @@
   font-family: "Inter", sans-serif;
 }
 
-::-webkit-scrollbar {
-  width: 15px;
-  background-color: black;
-}
-
-::-webkit-scrollbar-thumb {
-  background-color: #daff01;
-  border-radius: 6px;
-}
-
-::-webkit-scrollbar-track {
-  background-color: black;
-  border-radius: 6px;
-}
-
 .texto-menor {
   font-size: 13px;
 }
